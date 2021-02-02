@@ -1,0 +1,35 @@
+c:\users\etecvav\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+c:\users\etecvav\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+c:\users\etecvav\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\etecvav\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+c:\users\etecvav\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+c:\users\etecvav\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\etecvav\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\etecvav\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+c:\users\etecvav\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+K:\ARQUIVOS DO EDUARDO\ETEC\VisualStudio\MONTAR LANCHE\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+K:\ARQUIVOS DO EDUARDO\ETEC\VisualStudio\MONTAR LANCHE\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+K:\ARQUIVOS DO EDUARDO\ETEC\VisualStudio\MONTAR LANCHE\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+K:\ARQUIVOS DO EDUARDO\ETEC\VisualStudio\MONTAR LANCHE\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+K:\ARQUIVOS DO EDUARDO\ETEC\VisualStudio\MONTAR LANCHE\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\ARQUIVOS DO EDUARDO\ETEC\VisualStudio\MONTAR LANCHE\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+K:\ARQUIVOS DO EDUARDO\ETEC\VisualStudio\MONTAR LANCHE\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+K:\ARQUIVOS DO EDUARDO\ETEC\VisualStudio\MONTAR LANCHE\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\ARQUIVOS DO EDUARDO\ETEC\VisualStudio\MONTAR LANCHE\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\ARQUIVOS DO EDUARDO\ETEC\VisualStudio\MONTAR LANCHE\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+G:\ARQUIVOS DO EDUARDO\ETEC\VisualStudio\MONTAR LANCHE\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+G:\ARQUIVOS DO EDUARDO\ETEC\VisualStudio\MONTAR LANCHE\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+G:\ARQUIVOS DO EDUARDO\ETEC\VisualStudio\MONTAR LANCHE\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+G:\ARQUIVOS DO EDUARDO\ETEC\VisualStudio\MONTAR LANCHE\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\ARQUIVOS DO EDUARDO\ETEC\VisualStudio\MONTAR LANCHE\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+G:\ARQUIVOS DO EDUARDO\ETEC\VisualStudio\MONTAR LANCHE\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+G:\ARQUIVOS DO EDUARDO\ETEC\VisualStudio\MONTAR LANCHE\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\ARQUIVOS DO EDUARDO\ETEC\VisualStudio\MONTAR LANCHE\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\NEMESIO\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+C:\Users\NEMESIO\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+C:\Users\NEMESIO\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\NEMESIO\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\NEMESIO\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\NEMESIO\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\NEMESIO\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\NEMESIO\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache

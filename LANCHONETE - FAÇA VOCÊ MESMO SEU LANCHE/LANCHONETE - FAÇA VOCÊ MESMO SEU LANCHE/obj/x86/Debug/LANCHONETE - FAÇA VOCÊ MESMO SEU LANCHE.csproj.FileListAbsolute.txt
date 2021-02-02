@@ -1,0 +1,20 @@
+C:\Users\NEMESIO\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\NEMESIO\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\NEMESIO\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\NEMESIO\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\NEMESIO\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\LANCHONETE - FAÇA VOCÊ MESMO SEU LANCHE.csproj.GenerateResource.Cache
+C:\Users\NEMESIO\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+C:\Users\NEMESIO\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+C:\Users\NEMESIO\Desktop\LANCHONETE - FAÇA VOCÊ MESMO SEU LANCHE\LANCHONETE - FAÇA VOCÊ MESMO SEU LANCHE\obj\x86\Debug\WindowsFormsApplication4.exe
+C:\Users\NEMESIO\Desktop\LANCHONETE - FAÇA VOCÊ MESMO SEU LANCHE\LANCHONETE - FAÇA VOCÊ MESMO SEU LANCHE\obj\x86\Debug\WindowsFormsApplication4.pdb
+C:\Users\NEMESIO\Desktop\LANCHONETE - FAÇA VOCÊ MESMO SEU LANCHE\LANCHONETE - FAÇA VOCÊ MESMO SEU LANCHE\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\NEMESIO\Desktop\LANCHONETE - FAÇA VOCÊ MESMO SEU LANCHE\LANCHONETE - FAÇA VOCÊ MESMO SEU LANCHE\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\NEMESIO\Desktop\LANCHONETE - FAÇA VOCÊ MESMO SEU LANCHE\LANCHONETE - FAÇA VOCÊ MESMO SEU LANCHE\obj\x86\Debug\LANCHONETE - FAÇA VOCÊ MESMO SEU LANCHE.csprojResolveAssemblyReference.cache
+C:\Users\NEMESIO\Desktop\LANCHONETE - FAÇA VOCÊ MESMO SEU LANCHE\LANCHONETE - FAÇA VOCÊ MESMO SEU LANCHE\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\NEMESIO\Desktop\LANCHONETE - FAÇA VOCÊ MESMO SEU LANCHE\LANCHONETE - FAÇA VOCÊ MESMO SEU LANCHE\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\NEMESIO\Desktop\LANCHONETE - FAÇA VOCÊ MESMO SEU LANCHE\LANCHONETE - FAÇA VOCÊ MESMO SEU LANCHE\obj\x86\Debug\LANCHONETE - FAÇA VOCÊ MESMO SEU LANCHE.csproj.GenerateResource.Cache
+C:\Users\NEMESIO\Documents\Visual Studio 2013\Projects\Visual\LANCHONETE - FAÇA VOCÊ MESMO SEU LANCHE\LANCHONETE - FAÇA VOCÊ MESMO SEU LANCHE\obj\x86\Debug\WindowsFormsApplication4.exe
+C:\Users\NEMESIO\Documents\Visual Studio 2013\Projects\Visual\LANCHONETE - FAÇA VOCÊ MESMO SEU LANCHE\LANCHONETE - FAÇA VOCÊ MESMO SEU LANCHE\obj\x86\Debug\WindowsFormsApplication4.pdb
+C:\Users\NEMESIO\Documents\Visual Studio 2013\Projects\Visual\LANCHONETE - FAÇA VOCÊ MESMO SEU LANCHE\LANCHONETE - FAÇA VOCÊ MESMO SEU LANCHE\obj\x86\Debug\LANCHONETE - FAÇA VOCÊ MESMO SEU LANCHE.csprojResolveAssemblyReference.cache
+C:\Users\NEMESIO\Documents\Visual Studio 2013\Projects\Visual\LANCHONETE - FAÇA VOCÊ MESMO SEU LANCHE\LANCHONETE - FAÇA VOCÊ MESMO SEU LANCHE\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\NEMESIO\Documents\Visual Studio 2013\Projects\Visual\LANCHONETE - FAÇA VOCÊ MESMO SEU LANCHE\LANCHONETE - FAÇA VOCÊ MESMO SEU LANCHE\obj\x86\Debug\LANCHONETE - FAÇA VOCÊ MESMO SEU LANCHE.csproj.GenerateResource.Cache
